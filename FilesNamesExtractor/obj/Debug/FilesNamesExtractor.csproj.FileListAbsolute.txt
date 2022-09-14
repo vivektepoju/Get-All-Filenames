@@ -1,0 +1,13 @@
+C:\Users\tepoju.t\source\repos\FilesNamesExtractor\FilesNamesExtractor\bin\Debug\FilesNamesExtractor.exe.config
+C:\Users\tepoju.t\source\repos\FilesNamesExtractor\FilesNamesExtractor\bin\Debug\FilesNamesExtractor.exe
+C:\Users\tepoju.t\source\repos\FilesNamesExtractor\FilesNamesExtractor\bin\Debug\FilesNamesExtractor.pdb
+C:\Users\tepoju.t\source\repos\FilesNamesExtractor\FilesNamesExtractor\obj\Debug\FilesNamesExtractor.Form1.resources
+C:\Users\tepoju.t\source\repos\FilesNamesExtractor\FilesNamesExtractor\obj\Debug\FilesNamesExtractor.Properties.Resources.resources
+C:\Users\tepoju.t\source\repos\FilesNamesExtractor\FilesNamesExtractor\obj\Debug\FilesNamesExtractor.csproj.GenerateResource.cache
+C:\Users\tepoju.t\source\repos\FilesNamesExtractor\FilesNamesExtractor\obj\Debug\FilesNamesExtractor.csproj.CoreCompileInputs.cache
+C:\Users\tepoju.t\source\repos\FilesNamesExtractor\FilesNamesExtractor\obj\Debug\FilesNamesExtractor.exe
+C:\Users\tepoju.t\source\repos\FilesNamesExtractor\FilesNamesExtractor\obj\Debug\FilesNamesExtractor.pdb
+C:\Users\tepoju.t\source\repos\FilesNamesExtractor\FilesNamesExtractor\obj\Debug\FilesNamesExtractor.csprojAssemblyReference.cache
+C:\Users\tepoju.t\source\repos\FilesNamesExtractor\FilesNamesExtractor\obj\Debug\FilesNamesExtractor.Form2.resources
+C:\Users\tepoju.t\source\repos\FilesNamesExtractor\FilesNamesExtractor\bin\Debug\Microsoft.Web.Services3.dll
+C:\Users\tepoju.t\source\repos\FilesNamesExtractor\FilesNamesExtractor\obj\Debug\FilesNamesExtractor.csproj.CopyComplete
